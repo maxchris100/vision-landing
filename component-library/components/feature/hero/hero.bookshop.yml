@@ -12,7 +12,7 @@ blueprint:
   title: Email campaigns Features
   description: We believe that a good email marketing strategy is the key to growth. So we’re helping you grow your business with tools and resources that make email marketing easy.
   button:
-    link: /sign-up
+    link: /contact
     text: Lets Build Business
   image: /images/feature/feature-hero.png
   image_alt: Graphs

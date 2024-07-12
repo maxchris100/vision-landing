@@ -21,7 +21,7 @@ export default function HomeHero( {block, dataBinding}) {
                 </div>
                 <div className="col-lg-6">
                     <div className="hero-two-banner">
-                    <img src={block.image} alt={block.image_alt} />
+                    <img width={"100%"} src={block.image} alt={block.image_alt} />
                     <div className="hero-two-banner-shape"></div>
                     </div>
                 </div>
