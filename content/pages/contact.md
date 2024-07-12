@@ -14,15 +14,15 @@ content_blocks:
   - _bookshop_name: contact/form
     address:
       heading: Office Address
-      address: 123 Train St, San Francisco, CA 9107
+      address: Pluit Village Lt 3 No 1
     phone:
       heading: Phone
-      cell: (123) 456 - 7895
+      cell: +6287774273627
       image: /images/contact/call-add.svg
       image_alt: call-add
     email:
       heading: Email
-      email: info@example.com
+      email: michellemegara@gmail.com
       image: /images/contact/directbox-send.svg
       image_alt: send-box
     form:
