@@ -9,12 +9,12 @@ seo:
   no_index: false
 content_blocks:
   - _bookshop_name: contact/hero
-    title: Let's talk over a cup of coffee.
-    description: Have a question or suggestion? Feel free to drop us a message!
+    title: Have a question?
+    description: Feel free to drop us a message!
   - _bookshop_name: contact/form
     address:
       heading: Office Address
-      address: Pluit Village Lt 3 No 1
+      address: Pluit Village Mall, North Jakarta, Ground Floor no 1
     phone:
       heading: Phone
       cell: +6287774273627
@@ -26,7 +26,7 @@ content_blocks:
       image: /images/contact/directbox-send.svg
       image_alt: send-box
     form:
-      heading: Say Hello
+      heading: Let's talk over a cup of coffee.
       fullname:
         heading: Full Name
         placeholder: Enter First Name

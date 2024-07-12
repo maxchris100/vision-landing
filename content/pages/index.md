@@ -48,8 +48,8 @@ content_blocks:
   - _bookshop_name: global/feature
     image: /images/feature/feature-card-one.png
     image_alt: Message inbox
-    title: "Email Campaign in one minute"
-    description: "Send an email campaign with one click, in just minutes. Automate your emails and content, while keeping the human touch."
+    title: "Reaching out partners"
+    description: "One opportunity used wisely can change your life dramatically."
     button:
       link: /contact
       text: Lets Build Business
@@ -58,8 +58,8 @@ content_blocks:
   - _bookshop_name: global/feature
     image: /images/feature/feature-card-two.png
     image_alt: Visitor chart
-    title: "See every Lead in one Place"
-    description: "Sales analytics and automation made simple: see every sales lead in one place, regardless of where it came from."
+    title: "Winner Team"
+    description: "The Price of Success is hard work, dedication to the job at hand, and the determination that whether we win or lose, we have applied the best of ourselves to the task at hand. - Vince Lombardi"
     button:
       link: /contact
       text: Lets Build Business
@@ -68,8 +68,8 @@ content_blocks:
   - _bookshop_name: global/feature
     image: /images/feature/feature-card-three.png
     image_alt: File upload
-    title: "100% free uploads"
-    description: "VP Partners is used by everyone from small businesses to fortune 500 companies. Browse our collection of email marketing templates and start sending beautiful emails in minutes."
+    title: "One Day or Day One"
+    description: "All big things come from a decision."
     button:
       link: /contact
       text: Lets Build Business
@@ -78,23 +78,23 @@ content_blocks:
   - _bookshop_name: global/testimonial
     title: Build relationships that
     title_suffix: last
-    description: Customers from all Indonesia are connecting with us.
+    description: People from all Indonesia are connecting with us.
     slider:
       - image: /images/testimonial/logo-2.jpg
-        image_alt: Profile photo of Pete Fish
-        author: Pete Fish
-        designation: CMO at Clear Appeal
-        message: VP Partners has taken Clear Appeal to the next level with it's beautiful targetted email campaigns.
+        image_alt: Profile photo of Maximil Christian
+        author: Maximil Christian
+        designation: 
+        message: One Day or Day One. It's your Choice to begin
 
       - image: /images/testimonial/logo-3.jpg
-        image_alt: Profile photo of Dolly Watson
-        author: Dolly Watson
-        designation: Digital Marketer at Time Cop
-        message: Wow, what a difference VP Partners has made. My customers are more engaged than ever.
+        image_alt: Profile photo of Michelle Megara
+        author: Michelle Megara
+        designation: 
+        message: Wow, what a difference VP Partners has made. My Dreams and Life are are turned into reality while im still young.
 
       - image: /images/testimonial/logo-4.jpg
         image_alt: Profile photo of Simon Moriarty
         author: Simon Moriarty
-        designation: Head of Marketing at Pinnacle Mines
+        designation: 
         message: I can't imagine life without VP Partners now, I have no idea how we were surviving before.
 ---

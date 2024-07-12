@@ -1,6 +1,9 @@
 import Link from "next/link";
+import { useState } from "react";
 
 export default function ContactHero({ block, dataBinding }) {
+    const [textInputValue, setTextInputValue] = useState('');
+
     return (
         <section className="contact" data-cms-bind={dataBinding}>
             <div className="container">
@@ -55,9 +58,9 @@ export default function ContactHero({ block, dataBinding }) {
 
                             { block.form && 
                                 <>
-                                    <form method="post">
+                                    <form >
                                         <h3>{block.form.heading }</h3>
-                                        { block.form.fullname && 
+                                        {/* { block.form.fullname && 
                                             <>
                                                 <div className="col-md-12">
                                                     <label for="Name" className="label">{block.form.fullname.heading}</label>
@@ -101,7 +104,7 @@ export default function ContactHero({ block, dataBinding }) {
                                                     />
                                                 </div>
                                             </>
-                                        }
+                                        } */}
                                         { block.form.message && 
                                             <>
                                                 <div className="col-md-12">
@@ -109,6 +112,8 @@ export default function ContactHero({ block, dataBinding }) {
                                                     <textarea
                                                         className="form-control mb-4"
                                                         id="floatingTextarea2"
+                                                        value={textInputValue}
+                                                        onChange={(e)=> setTextInputValue(e.target.value)}
                                                         name="message"
                                                         placeholder={block.form.message.placeholder}
                                                         rows="8"
@@ -121,9 +126,11 @@ export default function ContactHero({ block, dataBinding }) {
 
                                         { block.form.submit_button && 
                                             <div className="col-12">
-                                                <button className="btn btn-primary btn-lg mt-7">
-                                                    <span className="position-relative">{block.form.submit_button.text }</span>
-                                                </button> 
+                                                {/* <button className="btn btn-primary btn-lg mt-7"> */}
+                                                    <Link className="btn btn-primary btn-lg mt-7" href={`https://api.whatsapp.com/send?phone=${block.phone.cell}&text=${textInputValue ? textInputValue : "Hello, May I know details about VP Franchise! I want to know about the opportunity"}`}>
+                                                        <span className="position-relative">{block.form.submit_button.text }</span> 
+                                                    </Link>
+                                                {/* </button>  */}
                                             </div>
                                         }
                                     </form>
