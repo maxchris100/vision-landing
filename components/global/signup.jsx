@@ -65,7 +65,7 @@ export default function GlobalSignup({ block, dataBinding }) {
                                 </div>
                                 <div className="col-md-12">
                                     <button className="btn btn-submit w-100" >
-                                        <a target="_blank" href="https://wa.me/087774273627"></a>{block.form.sign_up_text}</button>
+                                        <a  href="https://wa.me/087774273627"></a>{block.form.sign_up_text}</button>
                                 </div>
                                 {/* <div className="col-md-12 mt-3">
                                     <label for="" className="d-block text-center mb-0">or</label>
