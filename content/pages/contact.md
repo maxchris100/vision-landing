@@ -9,7 +9,7 @@ seo:
   no_index: false
 content_blocks:
   - _bookshop_name: contact/hero
-    title: Let's talk.
+    title: Let's talk over a cup of coffee.
     description: Have a question or suggestion? Feel free to drop us a message!
   - _bookshop_name: contact/form
     address:

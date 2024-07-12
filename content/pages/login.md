@@ -21,6 +21,6 @@ content_blocks:
     log_in_button:
       text: "Log In"
     sign_up_button:
-      link: "/signup"
+      link: "/contact"
       text: "Create an Account"
 ---

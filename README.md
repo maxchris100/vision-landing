@@ -1,8 +1,8 @@
-# Sendit
+# VP Partners
 
-Sendit is a polished, marketing website template for NextJS. Browse through a [live demo](https://mysterious-oryx.cloudvent.net/). 
+VP Partners is a polished, marketing website template for NextJS. Browse through a [live demo](https://mysterious-oryx.cloudvent.net/). 
 
-![Sendit template screenshot](public/images/_screenshot.png)
+![VP Partners template screenshot](public/images/_screenshot.png)
 
 
 [![Deploy to CloudCannon](https://buttons.cloudcannon.com/deploy.svg)](https://app.cloudcannon.com/register#sites/connect/github/CloudCannon/sendit-nextjs-template)
@@ -24,7 +24,7 @@ or Next.js locally).
 
 ## Develop
 
-Sendit is built with [Next.js](https://nextjs.org/) (version `13.0.4`).
+VP Partners is built with [Next.js](https://nextjs.org/) (version `13.0.4`).
 
 ~~~bash
 $ npm install
@@ -33,7 +33,7 @@ $ npm run dev
 
 ## Editing
 
-Sendit is set up for adding, updating and removing pages, components, posts, portfolio items, company details and footer elements in [CloudCannon](https://app.cloudcannon.com/).
+VP Partners is set up for adding, updating and removing pages, components, posts, portfolio items, company details and footer elements in [CloudCannon](https://app.cloudcannon.com/).
 
 ### Posts
 

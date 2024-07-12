@@ -11,7 +11,7 @@ seo:
 content_blocks:
   - _bookshop_name: pricing/hero
     title: A plan for everyone
-    description: Sendit is easy to get started and we have a pricing plan for businesses of all sizes.
+    description: VP Partners is easy to get started and we have a pricing plan for businesses of all sizes.
 
   - _bookshop_name: pricing/table
     pricing_tier:
@@ -42,7 +42,7 @@ content_blocks:
           - item: Unlimited activity history
             active_feature: false
         button:
-          link: /signup
+          link: /contact
           text: Lets Build Business
       - tier: Pro
         highlight_tier: true
@@ -71,7 +71,7 @@ content_blocks:
           - item: Unlimited activity history
             active_feature: false
         button:
-          link: /signup
+          link: /contact
           text: Lets Build Business
       - tier: Business
         highlight_tier: false
@@ -100,7 +100,7 @@ content_blocks:
           - item: Unlimited activity history
             active_feature: true
         button:
-          link: /signup
+          link: /contact
           text: Lets Build Business
 
   - _bookshop_name: global/faq

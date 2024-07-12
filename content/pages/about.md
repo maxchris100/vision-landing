@@ -10,8 +10,8 @@ seo:
   no_index: false
 content_blocks:
   - _bookshop_name: about/hero
-    title: On a mission to change email marketing
-    description: We're here to breathe new air into email marketing and help grow your business.
+    title: Reaching out partners, transforming them become Wealthy Enterpreneur
+    description: We're here to provide and help start your business.
     hero_images:
       - image: /images/about/aboutfeature-two.jpg
         image_alt: People working on laptops
@@ -24,19 +24,19 @@ content_blocks:
         placement: "back_top_left"
     button:
       text: "Lets Build Business"
-      link: "/signup"
+      link: "/contact"
 
   - _bookshop_name: global/counter
-    title: Built for your
-    title_suffix: Business
-    description: We've built Sendit from the ground up the help grow your business faster.
+    title: Start your own
+    title_suffix: Business Now
+    description: We've built VP Partners from the ground up to help grow your business faster.
     alternate_style: true
     numbers:
       - prefix: $
         number: 200
         suffix: m
         text: Venture capital raised
-      - number: 2016
+      - number: 2022
         text: Established in
       - number: 40
         suffix: +
@@ -47,9 +47,9 @@ content_blocks:
 
   - _bookshop_name: about/video
     title: We love what we do
-    description: Our team has decades of experience working with email marketing campaigns and we’re passionate about helping you connect with your customers.
+    description: Our team has decades of experience working in the field with clients and we’re passionate about helping you connect with your customers.
     button:
-      link: https://www.linkedin.com/
+      link: https://id.linkedin.com/in/michelle-megara-929522210
       text: Follow on Linkedin
     video:
       image: /images/works/banner.jpg
@@ -59,43 +59,28 @@ content_blocks:
   - _bookshop_name: about/team
     title: Our leadership team
     team_members:
-      - name: Nikolas Mcconnell
+      - name: Michelle Megara
+        instagram: https://www.instagram.com/michellemegara_
         designation: Co-Founder & CEO
         image: /images/team/1.jpg
-        image_alt: "Team member: Nikolas Mcconnell"
+        image_alt: "Team member: Michelle Megara"
 
-      - name: Keiren Mcculloch
-        designation: CMO
+      - name: Maximil Christian
+        instagram: https://www.instagram.com/maximilchristian
+        designation: CTO
         image: /images/team/2.jpg
-        image_alt: "Team member: Keiren Mcculloch"
+        image_alt: "Team member: Maximil Christian"
 
-      - name: Piers Reyes
-        designation: Head of Marketing
+      - name: David Chandra
+        instagram: https://www.instagram.com/davidchandra
+        designation: Co-Founder
         image: /images/team/3.jpg
-        image_alt: "Team member: Piers Reyes"
+        image_alt: "Team member: David Chandra"
 
-      - name: Zachary Arias
-        designation: Co-founder & CTO
+      - name: Aprilia Tio
+        instagram: https://www.instagram.com/aprilliatio
+        designation: Co-Founder
         image: /images/team/4.jpg
-        image_alt: "Team member: Zachary Arias"
+        image_alt: "Team member: Aprilia Tio"
 
-      - name: Harmony Dunlop
-        designation: Head of Sales
-        image: /images/team/5.jpg
-        image_alt: "Team member: Harmony Dunlop"
-
-      - name: Elize Schwartz
-        designation: CRO
-        image: /images/team/6.jpg
-        image_alt: "Team member: Elize Schwartz"
-
-      - name: Coen Simmons
-        designation: Head of Design
-        image: /images/team/7.jpg
-        image_alt: "Team member: Coen Simmons"
-
-      - name: Fran Figureson
-        designation: Head of People
-        image: /images/team/8.jpg
-        image_alt: "Team member: Fran Figureson"
 ---

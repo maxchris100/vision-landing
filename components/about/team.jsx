@@ -17,7 +17,7 @@ export default function AboutTeam({ block, dataBinding }) {
                                 <img src={member.image} alt={member.image_alt} loading="lazy" />
                             </div>
                             <div className="team-member-details">
-                                <h3>{member.name}</h3>
+                                <a href={member.instagram}><h3>{member.name}</h3></a>
                                 <p>{member.designation}</p>
                             </div>
                             </div>

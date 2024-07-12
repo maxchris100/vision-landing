@@ -8,7 +8,7 @@ seo:
   open_graph_type:
   no_index: false
 content_blocks:
-  - _bookshop_name: global/signup
+  - _bookshop_name: global/contact
     title: Create Account
     form:
       fullname:

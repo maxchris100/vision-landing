@@ -20,7 +20,7 @@ blueprint:
   log_in_button:
     text: "Log In"
   sign_up_button:
-    link: "/signup"
+    link: "/contact"
     text: "Create an Account"
 
 # Overrides any fields in the blueprint when viewing this component in the component browser

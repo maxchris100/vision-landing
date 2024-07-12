@@ -18,7 +18,7 @@ export default function ContactHero({ block, dataBinding }) {
                                     { block.phone && 
                                         <>
                                             <h3>{block.phone.heading }</h3>
-                                            <Link href={`tel:${block.phone.cell}`}>{block.phone.cell}
+                                            <Link href={`https://api.whatsapp.com/send?phone=${block.phone.cell}&text=Hello, May I know details about VP Franchise! I want to know about the opportunity`}>{block.phone.cell}
                                                 <span>
                                                     <img
                                                         src={block.phone.image}
@@ -35,7 +35,7 @@ export default function ContactHero({ block, dataBinding }) {
                                     { block.email && 
                                         <>
                                             <h3>{block.email.heading }</h3>
-                                            <Link href={`tel:${block.email.email}`}>{block.email.email}
+                                            <Link href={`mailto:${block.email.email}`}>{block.email.email}
                                                 <span>
                                                     <img
                                                         src={block.email.image}
@@ -121,9 +121,9 @@ export default function ContactHero({ block, dataBinding }) {
 
                                         { block.form.submit_button && 
                                             <div className="col-12">
-                                                <a href="https://wa.me/087774273627"><button className="btn btn-primary btn-lg mt-7">
+                                                <button className="btn btn-primary btn-lg mt-7">
                                                     <span className="position-relative">{block.form.submit_button.text }</span>
-                                                </button></a>
+                                                </button> 
                                             </div>
                                         }
                                     </form>

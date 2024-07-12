@@ -15,7 +15,7 @@ blueprint:
   image_alt: Dashboard with reports
   button:
     text: Lets Build Business
-    link: /signup
+    link: /contact
 
 # Overrides any fields in the blueprint when viewing this component in the component browser
 preview:
