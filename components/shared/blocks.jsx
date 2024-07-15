@@ -15,6 +15,7 @@ function Blocks({ children, content_blocks }) {
             )?.[0]?.[1]?.default;
 
             if (!TargetComponent) {
+                console.log(componentPath)
                 throw new Error(`Component not found for ${block._bookshop_name}: ${componentPath}`);
             }
             return (

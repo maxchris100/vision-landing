@@ -11,9 +11,9 @@ export default function AboutVideo({ block, dataBinding }) {
                         <div className="works-content">
                             <h2>{block.title}</h2>
                             <div dangerouslySetInnerHTML={{ __html: md.render(block.description) }}/>
-                            {block.button &&
+                            {/* {block.button &&
                                 <Link href={block.button.link} className="btn btn-lg btn-white"> {block.button.text} </Link>
-                            }
+                            } */}
                         </div>
                     </div>
                     <div className="col-lg-6">

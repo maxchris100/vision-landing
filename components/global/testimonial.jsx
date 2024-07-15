@@ -27,9 +27,9 @@ export default function GlobalTestimonial({ block, dataBinding }) {
                                             loading="lazy"
                                         />
                                     </div>
-                                    <div className="content">
-                                        <h3>{slide.author}</h3>
-                                        <p>{slide.designation}</p>
+                                    <div className="content"> 
+                                        <a href={slide.instagram}><h3>{slide.author}</h3></a>
+                                        <a href={slide.instagram}><p>{slide.designation}</p></a> 
                                     </div>
                                 </div>
                                 <p>{slide.message}</p>

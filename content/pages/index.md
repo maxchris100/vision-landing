@@ -83,18 +83,21 @@ content_blocks:
       - image: /images/testimonial/logo-2.jpg
         image_alt: Profile photo of Maximil Christian
         author: Maximil Christian
-        designation: 
+        instagram: https://www.instagram.com/maximilchristian
+        designation: '@maximilchristian' 
         message: Nothing Big Instant, Believe in the Process
 
       - image: /images/testimonial/logo-3.jpg
         image_alt: Profile photo of Michelle Megara
         author: Michelle Megara
-        designation: 
+        instagram: https://www.instagram.com/michellemegara_
+        designation: '@michellemegara_' 
         message: I never dreamed about success. I worked for it
 
       - image: /images/testimonial/logo-4.jpg
         image_alt: Profile photo of David Chandra
         author: David Chandra
-        designation: 
+        instagram: https://www.instagram.com/daviddchandraa_
+        designation: '@daviddchandraa_'
         message: One Day or Day One. It's your Choice to begin
 ---

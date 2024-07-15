@@ -10,7 +10,7 @@ seo:
   no_index: false
 content_blocks:
   - _bookshop_name: about/hero
-    title: Reaching Out, Evolving Partners to become Wealthy Enterpreneur
+    title: Reaching Out, Evolving Partners to become Professional Enterpreneur
     description: We're here to provide and help start your business.
     hero_images:
       - image: /images/about/aboutfeature-two.jpg
@@ -55,6 +55,14 @@ content_blocks:
       image: /images/works/banner.jpg
       image_alt: Thumbnail image for video
       link: /images/about/1.mp4
+
+  - _bookshop_name: about/video2
+    title: Hustle while We're Young
+    description: A Great Business is Taking Risk & Action.
+    video:
+      image: /images/works/banner.jpg
+      image_alt: Thumbnail image for video
+      link: /images/about/2.mp4
 
   - _bookshop_name: about/team
     title: Our leadership team
