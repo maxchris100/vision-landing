@@ -2,7 +2,7 @@
 title: Home
 content_blocks:
   - _bookshop_name: home/hero
-    title: Growing Wealthy Everyday
+    title: Growing Success Everyday
     description: With WEvolve Partners, you can quickly create your own dreams and make it happen.
     image: /images/hero/hero-image-2.png
     image_alt: Reports dashboard
