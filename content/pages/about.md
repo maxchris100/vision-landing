@@ -60,7 +60,7 @@ content_blocks:
     title: Hustle while We're Young
     description: A Great Business is Taking Risk & Action.
     video:
-      image: /images/works/banner.jpg
+      image: /images/works/banner2.jpg
       image_alt: Thumbnail image for video
       link: /images/about/2.mp4
 
