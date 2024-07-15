@@ -9,9 +9,9 @@ spec:
 
 # Defines the structure of this component, as well as the default values
 blueprint:
-  title: VP Partners
+  title: WEvolve Partners
   title_suffix: Features
-  description: VP Partners is the most complete solution to create beautiful email designs, manage mails and send them out at the best price.
+  description: WEvolve Partners is the most complete solution to create beautiful email designs, manage mails and send them out at the best price.
   remove_top_padding: false
 
 # Overrides any fields in the blueprint when viewing this component in the component browser

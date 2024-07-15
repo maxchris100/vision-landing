@@ -11,7 +11,7 @@ seo:
 content_blocks:
   - _bookshop_name: pricing/hero
     title: A plan for everyone
-    description: VP Partners is easy to get started and we have a pricing plan for businesses of all sizes.
+    description: WEvolve Partners is easy to get started and we have a pricing plan for businesses of all sizes.
 
   - _bookshop_name: pricing/table
     pricing_tier:

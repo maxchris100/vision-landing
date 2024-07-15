@@ -11,7 +11,7 @@ seo:
 content_blocks:
   - _bookshop_name: feature/hero
     title: Run the best campaigns
-    description: VP Partners will change the way you think about email and marketing automation.
+    description: WEvolve Partners will change the way you think about email and marketing automation.
     button:
       link: /contact
       text: Lets Build Business
@@ -19,9 +19,9 @@ content_blocks:
     image_alt: Charts
 
   - _bookshop_name: global/header
-    title: "VP Partners "
+    title: "WEvolve Partners "
     title_suffix: Features
-    description: VP Partners is the most complete solution to create beautiful email designs, manage mails and send them out at the best price.
+    description: WEvolve Partners is the most complete solution to create beautiful email designs, manage mails and send them out at the best price.
 
   - _bookshop_name: global/feature
     image: /images/feature/feature-card-one.png
@@ -47,7 +47,7 @@ content_blocks:
     image: /images/feature/feature-card-three.png
     image_alt: Upload box
     title: Free templates to get you started
-    description: "VP Partners is used by everyone from small businesses to fortune 500 companies. Browse our collection of email marketing templates and start sending beautiful emails in minutes."
+    description: "WEvolve Partners is used by everyone from small businesses to fortune 500 companies. Browse our collection of email marketing templates and start sending beautiful emails in minutes."
     button:
       link: /contact
       text: Lets Build Business
@@ -62,17 +62,17 @@ content_blocks:
         image_alt: Profile photo of Pete Fish
         author: Pete Fish
         designation: CMO at Clear Appeal
-        message: VP Partners has taken Clear Appeal to the next level with it's beautiful targetted email campaigns.
+        message: WEvolve Partners has taken Clear Appeal to the next level with it's beautiful targetted email campaigns.
 
       - image: /images/testimonial/logo-3.jpg
         image_alt: Profile photo of Dolly Watson
         author: Dolly Watson
         designation: Digital Marketer at Time Cop
-        message: Wow, what a difference VP Partners has made. My customers are more engaged than ever.
+        message: Wow, what a difference WEvolve Partners has made. My customers are more engaged than ever.
 
       - image: /images/testimonial/logo-4.jpg
         image_alt: Profile photo of Simon Moriarty
         author: Simon Moriarty
         designation: Head of Marketing at Pinnacle Mines
-        message: I can't imagine life without VP Partners now, I have no idea how we were surviving before.
+        message: I can't imagine life without WEvolve Partners now, I have no idea how we were surviving before.
 ---

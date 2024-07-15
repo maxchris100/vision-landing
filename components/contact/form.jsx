@@ -21,7 +21,7 @@ export default function ContactHero({ block, dataBinding }) {
                                     { block.phone && 
                                         <>
                                             <h3>{block.phone.heading }</h3>
-                                            <Link href={`https://api.whatsapp.com/send?phone=${block.phone.cell}&text=Hello, May I know details about VP Franchise! I want to know about the opportunity`}>{block.phone.cell}
+                                            <Link href={`https://api.whatsapp.com/send?phone=${block.phone.cell}&text=Hello, May I know details about WEvolve Partners! I want to know about the opportunity`}>{block.phone.cell}
                                                 <span>
                                                     <img
                                                         src={block.phone.image}
@@ -127,7 +127,7 @@ export default function ContactHero({ block, dataBinding }) {
                                         { block.form.submit_button && 
                                             <div className="col-12">
                                                 {/* <button className="btn btn-primary btn-lg mt-7"> */}
-                                                    <Link className="btn btn-primary btn-lg mt-7" href={`https://api.whatsapp.com/send?phone=${block.phone.cell}&text=${textInputValue ? textInputValue : "Hello, May I know details about VP Franchise! I want to know about the opportunity"}`}>
+                                                    <Link className="btn btn-primary btn-lg mt-7" href={`https://api.whatsapp.com/send?phone=${block.phone.cell}&text=${textInputValue ? textInputValue : "Hello, May I know details about WEvolve Partners! I want to know about the opportunity"}`}>
                                                         <span className="position-relative">{block.form.submit_button.text }</span> 
                                                     </Link>
                                                 {/* </button>  */}

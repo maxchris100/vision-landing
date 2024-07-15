@@ -1,8 +1,8 @@
-# VP Partners
+# WEvolve Partners
 
-VP Partners is a polished, marketing website template for NextJS. Browse through a [live demo](https://mysterious-oryx.cloudvent.net/). 
+WEvolve Partners is a polished, marketing website template for NextJS. Browse through a [live demo](https://mysterious-oryx.cloudvent.net/). 
 
-![VP Partners template screenshot](public/images/_screenshot.png)
+![WEvolve Partners template screenshot](public/images/_screenshot.png)
 
 
 [![Deploy to CloudCannon](https://buttons.cloudcannon.com/deploy.svg)](https://app.cloudcannon.com/register#sites/connect/github/CloudCannon/sendit-nextjs-template)
@@ -24,7 +24,7 @@ or Next.js locally).
 
 ## Develop
 
-VP Partners is built with [Next.js](https://nextjs.org/) (version `13.0.4`).
+WEvolve Partners is built with [Next.js](https://nextjs.org/) (version `13.0.4`).
 
 ~~~bash
 $ npm install
@@ -33,7 +33,7 @@ $ npm run dev
 
 ## Editing
 
-VP Partners is set up for adding, updating and removing pages, components, posts, portfolio items, company details and footer elements in [CloudCannon](https://app.cloudcannon.com/).
+WEvolve Partners is set up for adding, updating and removing pages, components, posts, portfolio items, company details and footer elements in [CloudCannon](https://app.cloudcannon.com/).
 
 ### Posts
 

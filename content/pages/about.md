@@ -10,7 +10,7 @@ seo:
   no_index: false
 content_blocks:
   - _bookshop_name: about/hero
-    title: Reaching out partners, transforming them become Wealthy Enterpreneur
+    title: Reaching Out, Evolving Partners to become Wealthy Enterpreneur
     description: We're here to provide and help start your business.
     hero_images:
       - image: /images/about/aboutfeature-two.jpg
@@ -29,7 +29,7 @@ content_blocks:
   - _bookshop_name: global/counter
     title: Start your own
     title_suffix: Business Now
-    description: We've built VP Partners from the ground up to help grow your business faster.
+    description: We've built WEvolve Partners from the ground up to help grow your business faster.
     alternate_style: true
     numbers:
       - prefix: $
@@ -46,7 +46,7 @@ content_blocks:
         text: Active users and growing
 
   - _bookshop_name: about/video
-    title: We love what we do
+    title: We create our Futures
     description: Our team has decades of experience working in the field with clients and we’re passionate about helping you connect with your customers.
     button:
       link: https://id.linkedin.com/in/michelle-megara-929522210
@@ -54,32 +54,32 @@ content_blocks:
     video:
       image: /images/works/banner.jpg
       image_alt: Thumbnail image for video
-      link: https://vimeo.com/45830194
+      link: /images/about/1.mp4
 
   - _bookshop_name: about/team
     title: Our leadership team
     team_members:
       - name: Michelle Megara
         instagram: https://www.instagram.com/michellemegara_
-        designation: Co-Founder & CEO
+        designation: '@michellemegara_'
         image: /images/team/1.jpg
         image_alt: "Team member: Michelle Megara"
 
       - name: Maximil Christian
         instagram: https://www.instagram.com/maximilchristian
-        designation: CTO
+        designation: '@maximilchristian'
         image: /images/team/2.jpg
         image_alt: "Team member: Maximil Christian"
 
       - name: David Chandra
-        instagram: https://www.instagram.com/davidchandra
-        designation: Co-Founder
+        instagram: https://www.instagram.com/daviddchandraa_
+        designation: '@daviddchandraa_'
         image: /images/team/3.jpg
         image_alt: "Team member: David Chandra"
 
       - name: Aprilia Tio
-        instagram: https://www.instagram.com/aprilliatio
-        designation: Co-Founder
+        instagram: https://www.instagram.com/aprilia.feli
+        designation: '@aprilia.feli'
         image: /images/team/4.jpg
         image_alt: "Team member: Aprilia Tio"
 

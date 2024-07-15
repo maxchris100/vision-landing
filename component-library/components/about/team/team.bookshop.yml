@@ -12,7 +12,7 @@ blueprint:
   title: Our leadership & Team Members
   team_members:
     - name: Cody Fisher
-      designation: Co-Founder & CEO
+      designation: Business Partner
       image: /images/team/team-member-1.jpg
       image_alt: "Team member: Cody Fisher"
 
