@@ -85,7 +85,7 @@ content_blocks:
         image: /images/team/3.jpg
         image_alt: "Team member: David Chandra"
 
-      - name: Aprilia Tio
+      - name: Aprilia Feli
         instagram: https://www.instagram.com/aprilia.feli
         designation: '@aprilia.feli'
         image: /images/team/4.jpg
