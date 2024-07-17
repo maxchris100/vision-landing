@@ -16,10 +16,10 @@ content_blocks:
     description: We have extensive development program to secure your assets and becoming world Top Class Leader.
     alternate_style: false
     numbers:
-      - prefix: $
-        number: 200
-        suffix: m
-        text: Venture capital raised
+      # - prefix: $
+      #   number: 200
+      #   suffix: m
+      #   text: Venture capital raised
       - prefix:
         number: 2022
         suffix:

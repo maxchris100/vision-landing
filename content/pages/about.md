@@ -32,10 +32,10 @@ content_blocks:
     description: We've built WEvolve Partners from the ground up to help grow your business faster.
     alternate_style: true
     numbers:
-      - prefix: $
-        number: 200
-        suffix: m
-        text: Venture capital raised
+      # - prefix: $
+      #   number: 200
+      #   suffix: m
+      #   text: Venture capital raised
       - number: 2022
         text: Established in
       - number: 40

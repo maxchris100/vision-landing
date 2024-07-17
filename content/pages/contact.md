@@ -26,7 +26,7 @@ content_blocks:
       image: /images/contact/directbox-send.svg
       image_alt: send-box
     form:
-      heading: Let's talk over a cup of coffee.
+      heading: July Batch Apprenticeship 👇
       fullname:
         heading: Full Name
         placeholder: Enter First Name
@@ -40,5 +40,5 @@ content_blocks:
         heading: Your Messages
         placeholder: Enter your message
       submit_button:
-        text: Send message
+        text: Apply Apprenticeship
 ---
