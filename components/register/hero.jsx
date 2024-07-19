@@ -3,6 +3,7 @@ import MarkdownIt from 'markdown-it';
 const md = new MarkdownIt({ html: true });
 
 export default function RegisterHero({ block, dataBinding }) { 
+    console.log("Register")
     return (
         <section className="contact-hero" data-cms-bind={dataBinding}>
             <div className="container">
